@@ -26,7 +26,7 @@ const portfolio = {
     github: "https://github.com/zerotrace007",
     twitter: "https://twitter.com/zerotrace007",
     email: "mailto:zerotrace@cybermail.com",
-    resume: "/cv_zerotrace.pdf"
+    resume: "/Resume.pdf"
   },
   blogPosts: [
     {
