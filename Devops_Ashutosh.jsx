@@ -26,7 +26,7 @@ const portfolio = {
     github: "https://github.com/ARajbhar007/",
     twitter: "https://twitter.com/zerotrace007",
     email: "arajbhar140@gmail.com",
-    resume: "https://github.com/ARajbhar007/final-portfolio/Resume.pdf"
+    resume: "/final-portfolio/Resume.pdf"
   },
   blogPosts: [
     {
