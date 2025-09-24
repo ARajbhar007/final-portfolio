@@ -81,7 +81,7 @@ export default function EthicalHackerPortfolio() {
         </motion.div>
 
         <div className="mt-4">
-          <a href="/Resume.pdf" download className="inline-flex items-center gap-2 px-4 py-2 bg-emerald-600 text-white text-sm rounded-xl hover:bg-emerald-700 animate-pulse">
+          <a href={portfolio.socialLinks.resume} download className="inline-flex items-center gap-2 px-4 py-2 bg-emerald-600 text-white text-sm rounded-xl hover:bg-emerald-700 animate-pulse">
             <FileDown size={16} /> Download CV
           </a>
         </div>
@@ -138,7 +138,7 @@ export default function EthicalHackerPortfolio() {
           <div className="flex flex-wrap gap-4">
             <a href={portfolio.socialLinks.website} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><Globe2 /> Website</a>
             <a href={portfolio.socialLinks.github} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><Terminal /> GitHub</a>
-            <a href={portfolio.socialLinks.twitter} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><ShieldCheck /> Linkedin</a>
+            <a href={portfolio.socialLinks.Linkedin} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><ShieldCheck /> Linkedin</a>
             <a href={portfolio.socialLinks.email} className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><Mail /> Email</a>
           </div>
         </section>
