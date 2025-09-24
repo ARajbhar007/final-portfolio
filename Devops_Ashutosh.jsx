@@ -23,9 +23,9 @@ const portfolio = {
   ],
   socialLinks: {
     website: "https://zerotrace.dev",
-    github: "https://github.com/zerotrace007",
+    github: "https://github.com/ARajbhar007/",
     twitter: "https://twitter.com/zerotrace007",
-    email: "mailto:zerotrace@cybermail.com",
+    email: "arajbhar140@gmail.com",
     resume: "/Resume.pdf"
   },
   blogPosts: [
@@ -111,14 +111,14 @@ export default function EthicalHackerPortfolio() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <Card className="bg-zinc-800">
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold text-emerald-400">C2 Commander</h3>
-                <p className="text-sm text-zinc-400">A custom Command-and-Control server built in Go, used for red team exercises with encrypted channels.</p>
+                <h3 className="text-xl font-semibold text-emerald-400">Jenkins CI/CD</h3>
+                <p className="text-sm text-zinc-400">Built and automated a CI/CD pipeline in Jenkins for a Java application using Maven, integrating Nexus for artifact management. Deployed the application seamlessly on AWS EC2 with end-to-end build, test, and deployment automation.</p>
               </CardContent>
             </Card>
             <Card className="bg-zinc-800">
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold text-emerald-400">Bug Bounty Radar</h3>
-                <p className="text-sm text-zinc-400">Automated scanning tool using Nuclei + custom templates to monitor new bug bounty program targets.</p>
+                <h3 className="text-xl font-semibold text-emerald-400">Automated system usage email notification</h3>
+                <p className="text-sm text-zinc-400">Developed a system monitoring automation that continuously tracks CPU usage of running servers. Configured an automated email alert system to notify when CPU thresholds are exceeded, ensuring proactive detection of performance issues.</p>
               </CardContent>
             </Card>
           </div>
@@ -138,7 +138,7 @@ export default function EthicalHackerPortfolio() {
           <div className="flex flex-wrap gap-4">
             <a href={portfolio.socialLinks.website} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><Globe2 /> Website</a>
             <a href={portfolio.socialLinks.github} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><Terminal /> GitHub</a>
-            <a href={portfolio.socialLinks.twitter} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><ShieldCheck /> Twitter</a>
+            <a href={portfolio.socialLinks.twitter} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><ShieldCheck /> Linkedin</a>
             <a href={portfolio.socialLinks.email} className="flex items-center gap-2 bg-zinc-800 px-4 py-2 rounded-xl text-emerald-400"><Mail /> Email</a>
           </div>
         </section>
