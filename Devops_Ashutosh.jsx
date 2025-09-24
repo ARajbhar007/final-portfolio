@@ -24,9 +24,9 @@ const portfolio = {
   socialLinks: {
     website: "https://final-portfolio-nine-zeta.vercel.app/",
     github: "https://github.com/ARajbhar007/",
-    twitter: "https://twitter.com/zerotrace007",
+    Linkedin: "www.linkedin.com/in/ashutosh-rajbhar-a77327122",
     email: "arajbhar140@gmail.com",
-    resume: "/final-portfolio/Resume.pdf"
+    resume: "/Resume.pdf"
   },
   blogPosts: [
     {
