@@ -19,14 +19,14 @@ const portfolio = {
     "Ansible"
   ],
   tools: [
-    "Ubuntu Linux", "Git/Github", "Aws / Azure", "Docker Conatiner", "Kubernetes", "Docker Compose", "Jenkins", "Terraform"
+    "Ubuntu Linux", "Git/Github", "Aws / Azure", "Docker Container", "Kubernetes", "Nexus Artifact", "Jenkins", "Terraform"
   ],
   socialLinks: {
-    website: "https://zerotrace.dev",
+    website: "https://final-portfolio-nine-zeta.vercel.app/",
     github: "https://github.com/ARajbhar007/",
     twitter: "https://twitter.com/zerotrace007",
     email: "arajbhar140@gmail.com",
-    resume: "/Resume.pdf"
+    resume: "https://github.com/ARajbhar007/final-portfolio/Resume.pdf"
   },
   blogPosts: [
     {
