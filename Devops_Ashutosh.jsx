@@ -81,7 +81,7 @@ export default function EthicalHackerPortfolio() {
         </motion.div>
 
         <div className="mt-4">
-          <a href={portfolio.socialLinks.resume} download className="inline-flex items-center gap-2 px-4 py-2 bg-emerald-600 text-white text-sm rounded-xl hover:bg-emerald-700 animate-pulse">
+          <a href="/Resume.pdf" download className="inline-flex items-center gap-2 px-4 py-2 bg-emerald-600 text-white text-sm rounded-xl hover:bg-emerald-700 animate-pulse">
             <FileDown size={16} /> Download CV
           </a>
         </div>
