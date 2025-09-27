@@ -26,7 +26,7 @@ const portfolio = {
     github: "https://github.com/ARajbhar007/",
     Linkedin: "https://linkedin.com/in/ashutosh-rajbhar-a77327122/",
     email: "arajbhar140@gmail.com",
-    resume: "/Resume.pdf"
+    resume: "../Resume.pdf"
   },
   blogPosts: [
     {
