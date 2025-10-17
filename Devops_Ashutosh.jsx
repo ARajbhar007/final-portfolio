@@ -6,8 +6,8 @@ import { motion } from 'framer-motion';
 
 const portfolio = {
   name: "Ashutosh Rajbhar",
-  title: "Junior Devops Engineer",
-  description: "Hi, I’m a Junior DevOps Engineer focused on making development and deployment easier through automation. From creating Dockerized apps to setting up full CI/CD pipelines with GitHub Actions, I enjoy building reliable systems that scale. I’ve worked with cloud platforms like AWS and love using Linux, Bash, and Git to bring ideas to life.",
+  title: "Junior Devops & Cloud Engineer",
+  description: "Hi, I’m a Junior DevOps & Cloud Engineer focused on making development and deployment easier through automation. From creating Dockerized apps to setting up full CI/CD pipelines with GitHub Actions, I enjoy building reliable systems that scale. I’ve worked with cloud platforms like AWS and love using Linux, Bash, and Git to bring ideas to life.",
   skills: [
     "Building CI/CD Pipelines",
     "Containerization",
