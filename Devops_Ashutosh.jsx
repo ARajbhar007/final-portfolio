@@ -19,7 +19,7 @@ const portfolio = {
     "Ansible"
   ],
   tools: [
-    "Ubuntu Linux", "Git/Github", "Aws / Azure", "Docker Container", "Kubernetes", "Nexus Artifact", "Jenkins", "Terraform"
+    "Ubuntu Linux", "Git/Github", "Aws / Azure", "Docker Container", "Kubernetes", "Argocd", "Jenkins", "Terraform", "Ansible"
   ],
   socialLinks: {
     website: "https://final-portfolio-nine-zeta.vercel.app/",
