@@ -111,8 +111,8 @@ export default function EthicalHackerPortfolio() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <Card className="bg-zinc-800">
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold text-emerald-400">Jenkins CI/CD</h3>
-                <p className="text-sm text-zinc-400">Built and automated a CI/CD pipeline in Jenkins for a Java application using Maven, integrating Nexus for artifact management. Deployed the application seamlessly on AWS EC2 with end-to-end build, test, and deployment automation.</p>
+                <h3 className="text-xl font-semibold text-emerald-400">End-to-End DevSecOps MERN Application on AWS EKS</h3>
+                <p className="text-sm text-zinc-400">Built a scalable, secure three-tier MERN application React, Node.js, MongoDB, deployed on AWS EKS, implementing end-to-end DevSecOps and GitOps practices. Automated cloud infrastructure with Terraform, CI/CD with Jenkins, and Kubernetes deployments using Helm and ArgoCD. Integrated Prometheus and Grafana for real-time monitoring, ensured high availability through Kubernetes scaling and load balancing, and applied security best practices including IAM, SonarQube,Trivy and secrets management.</p>
               </CardContent>
             </Card>
             <Card className="bg-zinc-800">
