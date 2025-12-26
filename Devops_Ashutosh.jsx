@@ -117,8 +117,8 @@ export default function EthicalHackerPortfolio() {
             </Card>
             <Card className="bg-zinc-800">
               <CardContent className="p-4">
-                <h3 className="text-xl font-semibold text-emerald-400">Automated system usage email notification</h3>
-                <p className="text-sm text-zinc-400">Developed a system monitoring automation that continuously tracks CPU usage of running servers. Configured an automated email alert system to notify when CPU thresholds are exceeded, ensuring proactive detection of performance issues.</p>
+                <h3 className="text-xl font-semibold text-emerald-400">Zero-Downtime Deployment using Git, Ansible & Nginx | AWS EC2</h3>
+                <p className="text-sm text-zinc-400">Designed and implemented a Git-driven zero-downtime deployment pipeline using Ansible and Nginx on AWS EC2. Provisioned and configured Ubuntu EC2 instances including two application servers and one Nginx load balancer. Automated application deployments using Git post-receive hooks and Ansible playbooks. Implemented Nginx reverse proxy, load balancing, and health checks to ensure high availability during deployments. Integrated Prometheus and Grafana for real-time monitoring, infrastructure metrics, and system observability.</p>
               </CardContent>
             </Card>
           </div>
