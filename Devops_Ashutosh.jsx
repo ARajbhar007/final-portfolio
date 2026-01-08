@@ -6,8 +6,8 @@ import { motion } from 'framer-motion';
 
 const portfolio = {
   name: "Ashutosh Rajbhar",
-  title: "Junior Devops & Cloud Engineer",
-  description: "Hi, I’m a Junior DevOps & Cloud Engineer focused on making development and deployment easier through automation. From creating Dockerized apps to setting up full CI/CD pipelines with GitHub Actions, I enjoy building reliable systems that scale. I’ve worked with cloud platforms like AWS and love using Linux, Bash, and Git to bring ideas to life.",
+  title: "Devops & Cloud Engineer",
+  description: "Hi, I’m a DevOps & Cloud Engineer focused on making development and deployment easier through automation. From creating Dockerized apps to setting up full CI/CD pipelines with GitHub Actions, I enjoy building reliable systems that scale. I’ve worked with cloud platforms like AWS and love using Linux, Bash, and Git to bring ideas to life.",
   skills: [
     "Building CI/CD Pipelines",
     "Containerization",
@@ -128,7 +128,7 @@ export default function EthicalHackerPortfolio() {
           <h2 className="text-3xl font-bold text-emerald-300 mb-4">About Me</h2>
           <div className="bg-black border border-emerald-800 p-4 rounded-xl text-green-400">
             <p className="leading-relaxed">
-              As a passionate and detail-oriented Junior DevOps Engineer, I specialize in automating deployments, managing cloud infrastructure, and streamlining development workflows. I have hands-on experience with tools like GitHub Actions, Docker, AWS, and Linux, and have built CI/CD pipelines, containerized applications, and hosted static and dynamic sites from scratch. My approach is rooted in continuous learning and solving real-world problems with practical DevOps solutions. I'm eager to contribute to collaborative teams and help deliver reliable, scalable, and efficient systems.
+              As a passionate and detail-oriented DevOps Engineer, I specialize in automating deployments, managing cloud infrastructure, and streamlining development workflows. I have hands-on experience with tools like GitHub Actions, Docker, AWS, and Linux, and have built CI/CD pipelines, containerized applications, and hosted static and dynamic sites from scratch. My approach is rooted in continuous learning and solving real-world problems with practical DevOps solutions. I'm eager to contribute to collaborative teams and help deliver reliable, scalable, and efficient systems.
             </p>
           </div>
         </section>
