@@ -18,7 +18,7 @@ const portfolio = {
     "Operating System - Linux (Ubuntu), Windows, Mac OS, Cent OS",
     "Notification & Version Control - Slack, Email, Git/Github"
   ],
-  Expertise: [
+  tools: [
     "Linux", "Git/Github", "Aws", "Docker", "Kubernetes", "Argocd", "Jenkins", "Terraform", "Ansible", "Prometheus", "Grafana", "Helm Chart", "Trivy"
   ],
   socialLinks: {
