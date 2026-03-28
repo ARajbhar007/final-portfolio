@@ -16,9 +16,9 @@ const portfolio = {
     "Monitoring & Observability - Prometheus, Grafana",
     "AI tools - ChatGpt, Gemini, Amazon Q, Claude, Github Copilot, KIRO",
     "Operating System - Linux (Ubuntu), Windows, Mac OS, Cent OS",
-    "Notification Integration - Slack ,Email "
+    "Notification & Version Control - Slack, Email, Git/Github "
   ],
-  tools: [
+  Expertise: [
     "Linux", "Git/Github", "Aws", "Docker", "Kubernetes", "Argocd", "Jenkins", "Terraform", "Ansible", "Prometheus", "Grafana", "Helm Chart", "Trivy"
   ],
   socialLinks: {
