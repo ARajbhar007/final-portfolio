@@ -6,8 +6,8 @@ import { motion } from 'framer-motion';
 
 const portfolio = {
   name: "Ashutosh Rajbhar",
-  title: "DevOps & Cloud Support Engineer",
-  description: "Hi, I’m a DevOps & Cloud Support Engineer focused on making development and deployment easier through automation. From creating Dockerized apps to setting up full CI/CD pipelines with GitHub Actions, I enjoy building reliable systems that scale. I’ve worked with cloud platforms like AWS and love using Linux, Bash, and Git to bring ideas to life.",
+  title: "DevOps & Cloud Engineer",
+  description: "I am a DevOps & Cloud Engineer specializing in automated infrastructure and cloud-native deployments. I bridge the gap between development and operations by architecting scalable CI/CD pipelines, implementing GitOps workflows, and hardening Cloud Security. I am committed to reducing deployment lead times and ensuring 100% system reliability through code-driven automation.",
   skills: [
     "Infrastructure as Code - Terraform, Ansible, CloudFormation",
     "Orchestration & GitOps - Docker, Kubernetes (EKS), Helm, ArgoCD",
