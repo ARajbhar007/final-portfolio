@@ -9,14 +9,14 @@ const portfolio = {
   title: "DevOps & Cloud Support Engineer",
   description: "Hi, I’m a DevOps & Cloud Support Engineer focused on making development and deployment easier through automation. From creating Dockerized apps to setting up full CI/CD pipelines with GitHub Actions, I enjoy building reliable systems that scale. I’ve worked with cloud platforms like AWS and love using Linux, Bash, and Git to bring ideas to life.",
   skills: [
-    "Building CI/CD Pipelines",
-    "Containerization",
-    "Cloud Aws",
-    "Scripting & Automation",
-    "Monitoring & Logging with Prometheus",
-    "Python & Bash Scripting",
-    "Email Integration",
-    "Ansible"
+    "Infrastructure as Code - Terraform, Ansible, CloudFormation",
+    "Orchestration & GitOps - Docker, Kubernetes (EKS), Helm, ArgoCD",
+    "CI/CD & DevSecOps - Jenkins, GitHub Actions, Trivy, SonarQube",
+    "Cloud Platforms - AWS (VPC, IAM, S3, EKS, RDS)",
+    "Monitoring & Observability - Prometheus, Grafana",
+    "AI tools - ChatGpt, Gemini, Amazon Q, Claude, Github Copilot, KIRO",
+    "Operating System - Linux (Ubuntu), Windows, Mac OS, Cent OS",
+    "Notification Integration - Slack ,Email "
   ],
   tools: [
     "Linux", "Git/Github", "Aws", "Docker", "Kubernetes", "Argocd", "Jenkins", "Terraform", "Ansible", "Prometheus", "Grafana", "Helm Chart", "Trivy"
